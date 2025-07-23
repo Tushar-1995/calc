@@ -19,7 +19,7 @@ pipeline {
                 powershell '''
                 cd calculator-app
                 python calculator.py --test 5 3
-                python calculator.py --test 10 8 
+                python calculator.py --test 515151551515 525252252848887889154841 
                 '''
             }
         }
